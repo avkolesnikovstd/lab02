@@ -201,5 +201,5 @@ $ gist REPORT.md
 - [LearnGitBranching](http://learngitbranching.js.org/)
 
 ```
-Copyright (c) 2015-2024 The ISC Authors
+Copyright (c) 2015-2024_ The ISC Authors
 ```
